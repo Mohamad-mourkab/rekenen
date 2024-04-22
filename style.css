@@ -1,0 +1,32 @@
+.row
+{
+    margin: 0;
+    padding: 0;
+}
+
+.space
+{
+    margin-top: 20px;
+}
+
+
+.input-group {
+    margin-top: 20px;
+}
+
+.card-header,
+.card-title,
+ol {
+    text-align: left;
+    list-style-type: circle;
+}
+
+img {
+    height: 100px;
+    width: 100%;
+}
+
+.flipped {
+    -webkit-transform: scaleX(-1);
+    transform: scaleX(-1);
+}
