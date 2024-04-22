@@ -3,7 +3,7 @@ include "inc/dbconnection.class.php";
 
 $db = new Dbconnection();
 
-$sql = "SELECT * FROM sommen WHERE id = 9";
+$sql = "SELECT * FROM sommen WHERE id = 7";
 
 $query = $db->prepare($sql);
 
